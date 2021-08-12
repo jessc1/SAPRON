@@ -85,8 +85,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'agenda',
-        'USER': 'postgres',
-        'PASSWORD':'mktj',
+        'USER': '',
+        'PASSWORD':'',
         'PORT':'5432'
         
     }
