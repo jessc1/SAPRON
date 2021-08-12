@@ -4,8 +4,10 @@ deletar, visualizar e criar um hóspede na aplicação.
 
 
 # Tecnologias:
+# Frameworks :
 * Django  
 * Django Rest Framework  
+# Banco de Dados:
 * Postgresql
 
 Para o desenvolvimento da API, criei o modelo Agenda com os campos: hóspede no qual
