@@ -2,8 +2,6 @@
 > API que retorna a agenda de um anfitrião, o usuário da API no qual irá adicionar, 
 deletar, visualizar e criar um hóspede na aplicação.
 
-
-# Tecnologias:
 # Frameworks :
 * Django  
 * Django Rest Framework  
