@@ -13,6 +13,15 @@ para rodar o projeto:
 
 python manage.py runserver
 
+
+
+Extra tip: If you use Django Framework you can do something like this...
+
+python manage.py import_authors authors.csv
+
+
+
+
 Para o desenvolvimento da API, criei o modelo Agenda com os campos: hóspede no qual
 irá armazenar o nome do hóspede. O campo checkin será adicionado no momento em que
 as informações do usuário forem salvas, o checkin que irá armazenar a data de saída
