@@ -9,6 +9,8 @@ deletar, visualizar e criar um hóspede na aplicação.
 * Postgresql
 
 para rodar o projeto:
+
+
 python manage.py runserver
 
 Para o desenvolvimento da API, criei o modelo Agenda com os campos: hóspede no qual
